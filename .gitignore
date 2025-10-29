@@ -1,0 +1,29 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+.uv/
+
+# Archivos de PyCharm
+.idea/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración o caché
+*.log
+*.lock
+*.db
+*.sqlite3
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de dependencias
+*.egg-info/
+dist/
+build/
